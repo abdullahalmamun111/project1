@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px){
+ .menu{
+
+ }
+   
+ .navbar ul li a{
+    flex-direction: column;
+    float: right;
+ } 
+ .navbar{
+    margin-top: -20px;
+ }
+ .navbar ul{
+    flex-direction: column;
+ }  
+#hero .row {
+    flex-direction: column;
+    align-items: center;
+}
+#hero .row .button{
+margin-top: -20px;
+}
+#hero .row .video{
+    padding-bottom: 20px;
+    flex-direction: row;
+    float: left;
+    margin-left: -10px;
+}
+#hero .row h1{
+    margin-top: -140px;
+    font-size: 40px;
+}
+#hero .row p{
+    font-size: 30px;
+}
+#hero .row .video i{
+    margin-top: 10px;
+   
+}
+#hero .row .text p{
+    color: hotpink;
+}
+#hero .row .button p{
+    margin-top: -5px;
+    color: hotpink;
+}
+#hero .row .image{
+justify-content: center;
+display: flex;
+
+}
+#hero .row img{
+    width: 400px;
+    height: 300px;
+    margin-top: -80px;
+}
+
+
+}

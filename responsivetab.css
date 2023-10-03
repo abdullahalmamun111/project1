@@ -1,0 +1,81 @@
+@media only screen and (min-width:200px) and (max-width:992px) {
+  
+   #hero .row{
+      flex-direction: column;
+   }
+   #hero .text{
+      text-align: center;
+      width: 100%;
+   }
+   #hero .button .btn .bg-primary{
+      text-align: center;
+    
+   }
+   #hero h1{
+      font-size: 45;
+      padding: 0 80px;
+   }
+   #hero p{
+      font-size: 24px;
+   }
+   #hero .button-and-video{
+      justify-content: center;
+      display: flex;
+   }
+   #hero .image img{
+    width: 100%;
+   }
+   #hero .image{
+      justify-content: center;
+      display: flex;
+      width: 100%;
+      margin-top: -50px;
+      padding-bottom: 50px;
+   }
+    .logo-2{
+      width: 100%;
+      height: 200px;
+   }
+   .about .margin{
+      flex-direction: column;
+   }
+   .about .margin .about-text{
+      margin-bottom: 20px;
+   }
+   .about-image{
+      justify-content: center;
+      display: flex;
+      width: 100%;
+      padding: 0 200px;
+   }
+   .about-image img{
+      width: 600px;
+   }
+   .texted{
+      width: 100%;
+      padding-right: 100px;
+   }
+   .texted .box{
+      width: 100%;
+   }
+   img, svg{
+      width: 100%;
+      padding-bottom: 50px;
+      justify-content: center;
+      display: flex;
+   }
+   .skill-text{
+      width: 100%;
+
+   }
+   .card{
+      width: 100%;
+   }
+   col-lg-4 .hover img{
+      width: 100%;
+      justify-content: center;
+      display: flex;
+   }
+   
+ 
+}
